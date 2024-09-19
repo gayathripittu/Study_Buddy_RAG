@@ -1,0 +1,27 @@
+[
+    {
+        "filename": "prabhas.pkl",
+        "hash": "b875f01fb51079a17c8441f61a132421b44e2787a93f2bf6212fb019405a013e",
+        "index_file_path": "pickle_index/prabhas.index"
+    },
+    {
+        "filename": "Gayathri_pittu_SE.pkl",
+        "hash": "ea0ddb3273afc66ba3884c545cba562e08337fd4403d13e993fbdb221faf94c4",
+        "index_file_path": "pickle_index/Gayathri_pittu_SE.index"
+    },
+    {
+        "filename": "python.pkl",
+        "hash": "553d151d1046642bee5838fe73ee35d097064fbdbd390850f52dc803627c2fe9",
+        "index_file_path": "pickle_index/python.index"
+    },
+    {
+        "filename": "water-10-01536-v2.pkl",
+        "hash": "25f359d3514d099dd94a854e57d68ed22c92740a1801fb6ca83b94d78ff8f508",
+        "index_file_path": "pickle_index/water-10-01536-v2.index"
+    },
+    {
+        "filename": "Data_Cleaning_and_Wrangling.pkl",
+        "hash": "904e499c0bba85bee90ef0d623fc01c233cd0b7dbf04f574ecd2bc05b0c3f0c4",
+        "index_file_path": "pickle_index/Data_Cleaning_and_Wrangling.index"
+    }
+]
